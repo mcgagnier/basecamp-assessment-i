@@ -26,7 +26,6 @@ var notHakeem = myName !='Hakeem Olajuwon';
 var age = 18;
 var canDrive;
 
-
 if (age > 16) {
   canDrive = true;
 }
